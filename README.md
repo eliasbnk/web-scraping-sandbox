@@ -4,7 +4,7 @@ This repository contains Python scripts for web scraping exercises found on Scra
 
 ### Exercises:
 
-1. [Hockey Teams: Forms, Searching and Pagination](https://www.scrapethissite.com/pages/forms/): Scrape NHL team stats since 1990 from a page with pagination and tables.
+1. [Hockey Teams: Forms, Searching and Pagination](https://www.scrapethissite.com/pages/forms/): Scrape NHL team stats from a page with pagination and tables.
 
 2. [Oscar Winning Films: AJAX and Javascript](https://www.scrapethissite.com/pages/ajax-javascript/): Scrape award-winning films information from a page with asynchronous content loading.
 
