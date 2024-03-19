@@ -43,7 +43,7 @@ async def main():
     The main entry point of the program.
     """
     try:
-        base_url = "https://www.scrapethissite.com/pages/forms/"
+        base_url = "http://www.scrapethissite.com/pages/forms/"
         html_fetcher = ContentFetcher('team_cache.json')
         num_pages = 24
 
@@ -53,6 +53,8 @@ async def main():
 
         # Flatten the list of lists into a single list
         teams = [team for sublist in all_teams for team in sublist]
+
+        print(teams)
 
     except Exception as e:
         print("Error:", e)

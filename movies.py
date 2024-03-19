@@ -52,7 +52,7 @@ async def main():
     The main entry point of the program.
     """
     try:
-        base_url = "https://www.scrapethissite.com/pages/ajax-javascript/"
+        base_url = "http://www.scrapethissite.com/pages/ajax-javascript/"
         html_fetcher = ContentFetcher('movie_cache.json')
 
         # Fetch movie data and print the result

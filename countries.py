@@ -53,7 +53,7 @@ async def main():
     The main entry point of the program.
     """
     try:
-        url = "https://www.scrapethissite.com/pages/simple/"
+        url = "http://www.scrapethissite.com/pages/simple/"
         html_fetcher = ContentFetcher('country_cache.json')
 
         # Fetch and extract country data and print the result
