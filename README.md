@@ -1,6 +1,6 @@
 ## Scrapethissite.com - Web Scraping Exercises
 
-This repository contains Python scripts for web scraping exercises found on Scrapethissite.com.
+This repository contains Python scripts of my attempt at web scraping exercises found on Scrapethissite.com.
 
 ### Exercises:
 
