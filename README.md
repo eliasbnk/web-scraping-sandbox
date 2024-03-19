@@ -15,7 +15,7 @@ This repository contains Python scripts of my attempt at web scraping exercises 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/eliasbnk/web-scraping-sandbox.git
+    git clone git@github.com:eliasbnk/web-scraping-sandbox.git
     ```
 
 2. Navigate to the project directory:
