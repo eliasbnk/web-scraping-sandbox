@@ -24,7 +24,27 @@ This repository contains Python scripts of my attempt at web scraping exercises 
     cd web-scraping-sandbox
     ```
 
-3. Install dependencies:
+3. Create a virtual environment:
+
+    ```bash
+    python -m venv venv
+    ```
+
+4. Activate the virtual environment:
+
+    - Windows:
+    
+    ```bash
+    venv\Scripts\activate
+    ```
+    
+    - Mac/Linux:
+    
+    ```bash
+    source venv/bin/activate
+    ```
+
+5. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
