@@ -55,7 +55,7 @@ This repository contains Python scripts of my attempt at web scraping exercises 
 Run scripts to complete exercises. For example:
 
 ```bash
-python fetch_team_data.py
+python teams.py
 ```
 
 ### License:
